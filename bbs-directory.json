@@ -636,6 +636,57 @@
       ]
     },
     {
+      "callsign": "VA2RIZ-1",
+      "sysop": "",
+      "network": "",
+      "location": "QC",
+      "grid": "",
+      "power": "",
+      "antenna": "",
+      "notes": "VA2RIZ-1/BBS VA2RIZ-2/Node VA2RIZ-3/Chat VA2RIZ-5/APRS VA2RIZ-10/RMS | HA: VA2RIZ.#LAN.QC.CAN.NOAM",
+      "bands": [
+        {
+          "band": "80m",
+          "frequency": 3596000,
+          "mode": "VARA HF",
+          "bandwidth": [
+            500
+          ],
+          "hours": "00-13"
+        },
+        {
+          "band": "40m",
+          "frequency": 7103200,
+          "mode": "VARA HF",
+          "bandwidth": [
+            500
+          ],
+          "hours": "13-00"
+        },
+        {
+          "band": "2m",
+          "frequency": 147435000,
+          "mode": "VARA FM",
+          "bandwidth": [],
+          "hours": "00-00"
+        },
+        {
+          "band": "2m",
+          "frequency": 145050000,
+          "mode": "FX.25",
+          "bandwidth": [],
+          "hours": "00-00"
+        },
+        {
+          "band": "2m",
+          "frequency": 144390000,
+          "mode": "APRS",
+          "bandwidth": [],
+          "hours": "00-00"
+        }
+      ]
+    },
+    {
       "callsign": "W1DTX-4",
       "sysop": "Steve Montague",
       "network": "TPRFN",
