@@ -617,12 +617,12 @@
       "bands": [
         {
           "band": "40m",
-          "frequency": 7103200,
+          "frequency": 7115000,
           "mode": "VARA HF",
           "bandwidth": [
             500
           ],
-          "hours": "12-00"
+          "hours": "00-00"
         },
         {
           "band": "80m",
@@ -631,7 +631,7 @@
           "bandwidth": [
             500
           ],
-          "hours": "00-12"
+          "hours": "00-13"
         }
       ]
     },
